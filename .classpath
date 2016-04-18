@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="com.google.gwt.eclipse.core.GWT_CONTAINER"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="/home/jiao/Software/eclipse/plugins/org.hamcrest.core_1.3.0.v201303031735.jar"/>
+	<classpathentry kind="lib" path="lib/guava-gwt-18.0.jar"/>
+	<classpathentry kind="lib" path="lib/gwt-bootstrap-2.2.1.0.jar"/>
+	<classpathentry kind="lib" path="lib/gwt-bootstrap-2.2.2.0-SNAPSHOT-sources.jar"/>
+	<classpathentry kind="lib" path="lib/junit-4.12.jar"/>
+	<classpathentry kind="lib" path="war/WEB-INF/lib/guava-18.0.jar"/>
+	<classpathentry kind="lib" path="war/WEB-INF/lib/gwt-servlet.jar"/>
+	<classpathentry kind="lib" path="lib/vaadin-client-7.5.2.jar"/>
+	<classpathentry kind="lib" path="lib/gwt-d3-api-1.2.0.jar"/>
+	<classpathentry kind="lib" path="lib/gwt-d3-js-3.5.11.jar"/>
+	<classpathentry kind="output" path="war/WEB-INF/classes"/>
+</classpath>
